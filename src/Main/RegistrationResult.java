@@ -12,5 +12,4 @@ public class RegistrationResult {
     public String getResult() {
         return result;
     }
-
 }
